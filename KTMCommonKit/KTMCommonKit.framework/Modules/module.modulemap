@@ -1,0 +1,6 @@
+framework module KTMCommonKit {
+  umbrella header "KTMCommonKit.h"
+
+  export *
+  module * { export * }
+}
